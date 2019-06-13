@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/KrystianJonca/pewdiepie-subscriptions-counter/master/img/pewdiepie_screenshot_800.png)
+
 # 💻 Pewdiepie subscriptions counter
 Pewdiepie subscriptions counter with subscriptions milestone and notifications when it is reached
 
