@@ -4,6 +4,7 @@
 Pewdiepie subscriptions counter with subscriptions milestone and notifications when it is reached
 
 ## ⌛️ CHANGELOG
+**UPDATE 1.3.2:** Changed milestone and fixed minor bug </br>
 **UPDATE 1.3.1:** Added notifications when Pewdiepie reach 100,000,000 subscriptions </br>
 **UPDATE 1.3.0:** Removed T-series from counter </br>
 **UPDATE 1.2.3:** Notifications disabled due to #ThankYouPewdiepie </br>
